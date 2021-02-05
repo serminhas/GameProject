@@ -1,0 +1,13 @@
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\Sermin Has\source\repos\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
